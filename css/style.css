@@ -130,7 +130,7 @@ body {
 }
 
 /* Mobile */
-@media(max-width: 375px) {
+@media(max-width: 640px) {
   .product-card {
     flex-direction: column;
     width: var(--product-card-w-mobile);
