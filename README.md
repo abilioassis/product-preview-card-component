@@ -10,7 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [xxxx](xxxx)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-xP7-nNLB5D](https://www.frontendmentor.io/solutions/product-preview-card-component-xP7-nNLB5D)
 - Live Site URL: [https://abilioassis.github.io/product-preview-card-component/](https://abilioassis.github.io/product-preview-card-component/)
 
 ## My process
