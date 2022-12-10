@@ -131,14 +131,11 @@ body {
 
 /* Medium and small devices */
 @media(max-width: 768px) {
-  /* body {
-    display: initial;
-  } */
+  
   .product-card {
     flex-direction: column;
     width: var(--product-card-w-mobile);
     height: var(--product-card-h-mobile);
-    /* margin: 1.6rem auto; */
   }
 
   .product-card img {
