@@ -133,6 +133,7 @@ body {
 @media(max-width: 768px) {
   body {
     display: initial;
+    background: black;
   }
   .product-card {
     flex-direction: column;
