@@ -11,7 +11,7 @@
   --font-bold: 700;
   --product-card-w-desktop: 600px;
   --product-card-h-desktop: 450px;
-  --product-card-w-mobile: 343px;
+  --product-card-w-mobile: 344px;
   --product-card-h-mobile: 611px;
   --mobile-w: 375px;
 
@@ -129,12 +129,16 @@ body {
   background: var(--deep-aquamarine-hover);
 }
 
-/* Mobile */
+/* Medium and small devices */
 @media(max-width: 768px) {
+  body {
+    display: initial;
+  }
   .product-card {
     flex-direction: column;
     width: var(--product-card-w-mobile);
     height: var(--product-card-h-mobile);
+    margin: 0.8rem auto;
   }
 
   .product-card img {
