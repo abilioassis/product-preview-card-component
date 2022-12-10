@@ -131,9 +131,9 @@ body {
 
 /* Medium and small devices */
 @media(max-width: 768px) {
-  body {
+  /* body {
     display: initial;
-  }
+  } */
   .product-card {
     flex-direction: column;
     width: var(--product-card-w-mobile);
